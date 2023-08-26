@@ -6,6 +6,8 @@ const allowedCors = [
   'localhost:3000',
   'https://kozhevnikova.students.nomoredomains.xyz',
   'http://kozhevnikova.students.nomoredomains.xyz',
+  'https://kozhevnikova.diploma.nomoredomainsicu.ru',
+  'http://kozhevnikova.diploma.nomoredomainsicu.ru',
 ];
 
 module.exports = (req, res, next) => {
